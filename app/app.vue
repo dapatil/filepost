@@ -27,6 +27,10 @@
           <a href="https://booksinorderlist.com" target="_blank" rel="noopener">booksinorderlist.com</a>
         </div>
         <div class="credit-item">
+          <span class="credit-label">Sponsored by</span>
+          <a href="https://paytaxcalc.com" target="_blank" rel="noopener">paytaxcalc.com</a>
+        </div>
+        <div class="credit-item">
           <span class="credit-label">Domain or source code inquiries</span>
           <a href="https://linkedin.com/in/dapatil" target="_blank" rel="noopener">linkedin.com/in/dapatil</a>
         </div>
